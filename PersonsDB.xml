@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PhoneBook>
+  <Person>
+    <id>0</id>
+    <FirstName>Masha</FirstName>
+    <LastName>Ivanova</LastName>
+    <Country>Russia</Country>
+    <City>Moskow</City>
+    <Phone>09897-658</Phone>
+  </Person>
+  <Person>
+    <id>1</id>
+    <FirstName>Igor</FirstName>
+    <LastName>Petrov</LastName>
+    <Country>Russia</Country>
+    <City>Piter</City>
+    <Phone>04563-3445</Phone>
+  </Person>
+</PhoneBook>
